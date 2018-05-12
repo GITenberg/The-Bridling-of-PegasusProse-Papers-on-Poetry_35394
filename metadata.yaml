@@ -1,0 +1,28 @@
+_repo: The-Bridling-of-PegasusProse-Papers-on-Poetry_35394
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Austin, Alfred
+    birthdate: 1835
+    deathdate: 1913
+    gutenberg_agent_id: '37643'
+    url: http://www.gutenberg.org/2009/agents/37643
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Austin
+description: ''
+gutenberg_issued: '2011-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35394'
+  lccn: '67022053'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Poetry'
+title: 'The Bridling of Pegasus: Prose Papers on Poetry'
+url: http://www.gutenberg.org/ebooks/35394
